@@ -10,7 +10,7 @@ Atualmente estudando:
 
 Atulamente desenvolvendo:
 - Pequenos projetos de introdução à Godot Engine
-- Um jogo plataforma 2D na Godot Engina
+- Um jogo plataforma 2D na Godot Engine
 
 Entre em contato comigo pelo meu discord ou gmail:
 - mano_ravs
