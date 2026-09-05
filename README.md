@@ -1,5 +1,5 @@
 ## Bem vindo(a) ao meu perfil 👋
-
+Me chamo Ravi Rodrigues, sou estudante do curso técnico de Informática para Internet do IFRN Central
 <!--
 **RaviAguiar/RaviAguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
