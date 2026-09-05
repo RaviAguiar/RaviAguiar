@@ -13,6 +13,6 @@ Atulamente desenvolvendo:
 - Um jogo plataforma 2D na Godot Engina
 
 Contato:
-Entre em contato comigo pelo meu discord ou gmail!
+Entre em contato comigo pelo meu discord ou gmail:
 - mano_ravs
 - ravi.rarezende@gmail.com
