@@ -10,10 +10,14 @@ Atualmente estudando:
 - Python
 - Html & Css
 
+  ---
+
 Atulamente desenvolvendo:
 - Pequenos projetos de introdução à Godot Engine
 - Um jogo plataforma 2D na Godot Engine
 
-Entre em contato comigo pelo meu discord ou gmail:
-- mano_ravs
-- ravi.rarezende@gmail.com
+  ---
+
+Contato:
+- Discord: mano_ravs
+- Email: ravi.rarezende@gmail.com
