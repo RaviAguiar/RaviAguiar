@@ -1,6 +1,8 @@
 ## Bem vindo(a) ao meu perfil 👋
 Me chamo Ravi Rodrigues, sou estudante do curso técnico de Informática para Internet do IFRN Central
 
+  ---
+
 Atualmente estudando:
 
 [![My Skills](https://skillicons.dev/icons?i=godot,py,html,css)](https://skillicons.dev)
