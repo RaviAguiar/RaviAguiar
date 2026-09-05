@@ -10,13 +10,13 @@ Atualmente estudando:
 - Python
 - Html & Css
 
-  ---
+---
 
 Atulamente desenvolvendo:
 - Pequenos projetos de introdução à Godot Engine
 - Um jogo plataforma 2D na Godot Engine
 
-  ---
+---
 
 Contato:
 - Discord: mano_ravs
