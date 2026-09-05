@@ -2,6 +2,7 @@
 Me chamo Ravi Rodrigues, sou estudante do curso técnico de Informática para Internet do IFRN Central
 
 Atualmente estudando:
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 - GDScript
 - Python
