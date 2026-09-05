@@ -16,3 +16,9 @@ Contato:
 Entre em contato comigo pelo meu discord ou gmail!
 - mano_ravs
 - ravi.rarezende@gmail.com
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
