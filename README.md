@@ -1,16 +1,16 @@
 ## Bem vindo(a) ao meu perfil 👋
 Me chamo Ravi Rodrigues, sou estudante do curso técnico de Informática para Internet do IFRN Central
-<!--
-**RaviAguiar/RaviAguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Atualmente estudando:
+- GDScript
+- Python
+- Html & Css
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atulamente desenvolvendo:
+- Pequenos projetos de introdução à Godot Engine
+- Um jogo plataforma 2D na Godot Engina
+
+Contato:
+Entre em contato comigo pelo meu discord ou gmail!
+- mano_ravs
+- ravi.rarezende@gmail.com
