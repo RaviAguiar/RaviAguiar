@@ -1,5 +1,5 @@
-# Bem vindo(a) ao meu perfil 👋
-Olá, sou Ravi Rodrigues, estudante do curso técnico de Informática para Internet do IFRN Central
+# Bem-vindo(a) ao meu perfil 👋
+Olá, sou Ravi Rodrigues, estudante do curso técnico de Informática para Internet do IFRN Campus Natal-Central.
 
   ---
   
